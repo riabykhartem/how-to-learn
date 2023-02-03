@@ -1,0 +1,9 @@
+.footer__column_content_social{
+  padding: 0;
+  color: #ffffff;
+  list-style-type: none;
+  margin: 0;
+}
+.footer__column_content_social:last-child{
+margin-bottom: 16px;
+}

@@ -1,0 +1,7 @@
+.feynman__background-photo{
+  position: absolute;
+  width:867px;
+  height: 637px;
+  bottom: 0;
+  z-index: 0;
+}

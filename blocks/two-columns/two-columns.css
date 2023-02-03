@@ -1,0 +1,13 @@
+.two-columns{
+  margin: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 80%;
+}
+
+.oakley .two-columns {
+  margin: 0 auto 0 auto;
+  
+}

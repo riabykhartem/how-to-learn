@@ -1,0 +1,10 @@
+.cards__title{
+  display: flex;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+  justify-content: center;
+
+
+}
