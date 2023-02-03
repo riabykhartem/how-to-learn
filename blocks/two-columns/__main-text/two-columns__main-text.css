@@ -4,7 +4,7 @@
   font-weight: normal;
   display: flex;
   flex-direction: column;
-  max-width: 80%;
+  width: 80%;
   min-width: 784px;
   margin: 0;
 }
